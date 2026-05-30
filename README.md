@@ -4,7 +4,7 @@ Uses onboard i2c ports
 Supports 128x64 Monochrome OLED display
 PC1 - SDA
 PC2 - SCL
-Credits:
-https://github.com/wagiminator
-https://github.com/cnlohr
-https://github.com/noopkat
+> Credits:
+(https://github.com/wagiminator)
+(https://github.com/cnlohr)
+(https://github.com/noopkat)
